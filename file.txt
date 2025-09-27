@@ -4,3 +4,5 @@ This is an updated line
 This line is from test-branch
 This line is added in feature2 branch
 This line is added in feature3 branch
+This is another line
+Learning Git commands is fun!
